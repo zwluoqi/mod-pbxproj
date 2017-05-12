@@ -2,6 +2,12 @@
 *.pyc
 *.pyo
 *.py~
+.idea
+build
+dist
+files.txt
+*.egg-info
+.coverage
 
 # Mac OS X cruft
 .DS_Store
